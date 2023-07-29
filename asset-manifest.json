@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bloxors/static/css/main.53a5dc64.css",
+    "main.js": "/bloxors/static/js/main.74b96e8a.js",
+    "static/js/787.8e7dc6db.chunk.js": "/bloxors/static/js/787.8e7dc6db.chunk.js",
+    "index.html": "/bloxors/index.html",
+    "main.53a5dc64.css.map": "/bloxors/static/css/main.53a5dc64.css.map",
+    "main.74b96e8a.js.map": "/bloxors/static/js/main.74b96e8a.js.map",
+    "787.8e7dc6db.chunk.js.map": "/bloxors/static/js/787.8e7dc6db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53a5dc64.css",
+    "static/js/main.74b96e8a.js"
+  ]
+}
